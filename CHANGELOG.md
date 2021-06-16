@@ -1,1 +1,6 @@
+- Merge pull request #2 from Webdev0329/feature/002-test-dot-php
+- #002: Add test dot php file
+- Merge pull request #1 from Webdev0329/hotfix/001-php-info
+- #001: Added phpinfo in index dot php
+- Initial commit
 - Initial commit
